@@ -15,5 +15,5 @@ Made by jonprine
 
 ## Screenshot
 Screenshot of finished page
-![Horiseon](assets/images/screenshot-1.png)
-![Horiseon](assets/images/screenshot-2.png)
+![Horiseon](Develop/assets/images/screenshot1.png)
+![Horiseon](Develop/assets/images/screenshot2.png)
